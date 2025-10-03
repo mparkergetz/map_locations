@@ -3,3 +3,4 @@
 *.csv
 *.tif
 *.xlsx
+map_data/*
